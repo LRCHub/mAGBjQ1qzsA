@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "深海少女 -deep sea girl- feat.初音ミク（feat. 初音ミク）",
+  "base_artist": "ゆうゆ",
+  "createdAt": "2026-01-04T13:14:27.830383Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/01_深海少女_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "ゆうゆ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_深海少女_ゆうゆ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/03_深海少女_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/04_深海少女_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/05_深海少女_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "深海少女 feat. 初音ミク (feat. 初音ミク)",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/06_深海少女_feat._初音ミク_(feat._初音ミク)_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/07_深海少女_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "深海少女 feat. 初音ミク",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/08_深海少女_feat._初音ミク_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "ゆうゆ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_深海少女_ゆうゆ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/10_深海少女_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "深海少女",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/11_深海少女_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "深海少女 (ちゃむ REMIX)",
+      "artist": "ゆうゆ feat. のぶなが & グリリ",
+      "has_synced": false,
+      "path": "select/12_深海少女_(ちゃむ_REMIX)_ゆうゆ_feat._のぶなが_&_グリリ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "深海少女 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/13_深海少女_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "帝国少女～深海少女",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": true,
+      "path": "select/14_帝国少女~深海少女_東京フィルハーモニー交響楽団.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "深海少女 (Shinkai Shoujo)",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/15_深海少女_(Shinkai_Shoujo)_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_01_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_02_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_03_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_04_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_05_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_06_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_07_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_08_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_09_深海少女_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "深海少女",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_10_深海少女_ぐるたみん.txt"
+    }
+  ]
+}
